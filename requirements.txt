@@ -1,0 +1,6 @@
+kaggle
+ipykernel
+pandas
+numpy
+pymysql
+sqlalchemy
